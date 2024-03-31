@@ -70,7 +70,7 @@
 //     let str=""
 //     for(var j=1;j<=i;j=j+1)
 //     {
-//       str=str+' '
+//       str=str+'*'
 //     }
 //     console.log(str);
 //   }
